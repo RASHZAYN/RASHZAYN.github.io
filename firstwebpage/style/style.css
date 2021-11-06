@@ -1,0 +1,24 @@
+p, h1, h3, td {background-image: url("image1.jpg");
+        font-family: Arial;
+        color: yellow;
+      }
+      p{display:block;
+        color: red}
+        h3{display:block;
+          color:red}
+
+      #mytab {
+        border-collapse: collapse; 
+        
+        border: 1px solid skyblue;
+      }
+      #mylink:hover {display:block;
+        color: red;
+      }
+      body {
+        
+        background-size: cover;
+      }
+      #myli {
+        margin-bottom: 10px;
+      }
